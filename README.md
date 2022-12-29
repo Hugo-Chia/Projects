@@ -10,7 +10,16 @@ This repository documents my past articles, project reports and speeches.
 > SENSORNET - Report written for the SCDFxIBM Hackathon.
 > Sensornet aims to harness the next-generation sensor network platform to enhance mission response in time-sensitive environments.
 
+**Speeches**
+1. Div0-YMAX Speech on Cybersecurity (2022)
+> Spoke as a crew of Div0 at Youth Model ASEAN Experience (YMAX 2022)
+> Covered several topics including:
+> 1. Geopolitical & Technology trends
+> 2. "Trust" & "Resilience"
+> 3. Singapore's Cybersecurity Strategy
+> 4. Digital Security
+
 Upcoming works to publish and centralise:
-> 1. Div0-YMAX Speech on Cybersecurity
-> 2. Sustainability Op-Ed (Opposite Editorial)
-> 3. Sustainability Symposium Research
+> 1. Sustainability Op-Ed (Opposite Editorial)
+> 2. Sustainability Symposium Research
+> 3. Healthcare Digital Transformation (Abstract only)
