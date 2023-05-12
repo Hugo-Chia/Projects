@@ -19,7 +19,17 @@ This repository documents my past articles, project reports and speeches.
 > 3. Singapore's Cybersecurity Strategy
 > 4. Digital Security
 
-Upcoming works to publish and centralise:
+**Assignments**
+1. UTC1112G Sustainability
 > 1. Sustainability Op-Ed (Opposite Editorial)
+> 2. Pecha-Kucha Presentation (**To be published**)
+> 3. Sustainability Symposium Research (**To be published**)
+
+
+Upcoming works to publish and centralise:
+> 1. Pecha-Kucha Presentation
 > 2. Sustainability Symposium Research
-> 3. Healthcare Digital Transformation (Abstract only)
+> 3. Healthcare Digital Transformation Research (Abstract only)
+> 4. IEM - Reading Critical Summary
+> 5. IEM Final Paper + Slides
+> 6. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
