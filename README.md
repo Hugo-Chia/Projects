@@ -21,7 +21,7 @@ This repository documents my past articles, project reports and speeches.
 
 **Assignments**
 1. UTC1112G Sustainability
-> 1. Sustainability Op-Ed (Opposite Editorial)
+> 1. [Sustainability Op-Ed](https://github.com/Hugo-Chia/Projects/blob/main/UTC1112G%20Sustainability/Sustainability%20Op-Ed.pdf) (Opposite Editorial)
 > 2. Pecha-Kucha Presentation (**To be published**)
 > 3. Sustainability Symposium Research (**To be published**)
 
