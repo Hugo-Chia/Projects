@@ -23,7 +23,7 @@ This repository documents my past articles, project reports and speeches.
 1. UTC1112G Sustainability
 > 1. [Sustainability Op-Ed](https://github.com/Hugo-Chia/Projects/blob/main/UTC1112G%20Sustainability/Sustainability%20Op-Ed.pdf) (Opposite Editorial)
     > An opposite editorial (op-ed) focusing on the intersection of sustainability and technology - Data Centres. This op-ed calls for a path towards greener and more sustainable data centrs, given an increasingly digitalised world.
-> 2. Pecha Kucha Presentation
+> 2. [Pecha Kucha Presentation](https://github.com/Hugo-Chia/Projects/tree/main/UTC1112G%20Sustainability/Pecha%20Kucha%20Presentation)
     > Pecha Kucha means 'chit-chat' in Japanese and is a format of 'Show and Tell'. The presenter shows 20 slides for 20 seconds of commentary each.
     > This presentation focused on **Singapore's approach to Circular Economy**.
     > Coupled with the fast paced nature of Pecha Kucha, this presentation employed the power of memes to captivate audiences and convey complex ideas with succinct wit, resonating with the ever-evolving tastes and preferences of today's generation.
