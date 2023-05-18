@@ -22,14 +22,17 @@ This repository documents my past articles, project reports and speeches.
 **Assignments**
 1. UTC1112G Sustainability
 > 1. [Sustainability Op-Ed](https://github.com/Hugo-Chia/Projects/blob/main/UTC1112G%20Sustainability/Sustainability%20Op-Ed.pdf) (Opposite Editorial)
-> 2. Pecha-Kucha Presentation (**To be published**)
+    > An opposite editorial (op-ed) focusing on the intersection of sustainability and technology - Data Centres. This op-ed calls for a path towards greener and more sustainable data centrs, given an increasingly digitalised world.
+> 2. Pecha Kucha Presentation
+    > Pecha Kucha means 'chit-chat' in Japanese and is a format of 'Show and Tell'. The presenter shows 20 slides for 20 seconds of commentary each.
+    > This presentation focused on **Singapore's approach to Circular Economy**.
+    > Coupled with the fast paced nature of Pecha Kucha, this presentation employed the power of memes to captivate audiences and convey complex ideas with succinct wit, resonating with the ever-evolving tastes and preferences of today's generation.
 > 3. Sustainability Symposium Research (**To be published**)
 
 
 Upcoming works to publish and centralise:
-> 1. Pecha-Kucha Presentation
-> 2. Sustainability Symposium Research
-> 3. Healthcare Digital Transformation Research (Abstract only)
-> 4. IEM - Reading Critical Summary
-> 5. IEM Final Paper + Slides
-> 6. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
+> 1. Sustainability Symposium Research
+> 2. Healthcare Digital Transformation Research (Abstract only)
+> 3. IEM - Reading Critical Summary
+> 4. IEM Final Paper + Slides
+> 5. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
