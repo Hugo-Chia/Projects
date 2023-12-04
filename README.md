@@ -35,8 +35,13 @@ This repository documents my past articles, project reports and speeches.
 > Final Research Project exploring **Nuclear Power and its Feasibility in Singapore’s context**
 > The research question for the project is - How feasible is adopting nuclear energy to meet Singapore’s energy needs and advance Singapore’s goal of net-zero by 2050?
 
+# 2. IS1128 IT, Management and Organisation
+> The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/IS1128%20IT%2C%20Management%20and%20Organisation/IS1128%20Group5_Project%20Final%20Report%20(Redacted).pdf) is to identify a local target company that underwent digital transformation during the COVID pandemic. The aim is to study the interplay between IT, work, management and organisation and issues involving information systems (IS) adoption and deployment.
+> The target company chosen for the assessment was National University Hospital (NUH).
+
 Upcoming works to publish and centralise:
-> 1. Healthcare Digital Transformation Research (Abstract only)
-> 2. IEM - Reading Critical Summary
-> 3. IEM Final Paper + Slides
-> 4. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
+> 1. IEM - Reading Critical Summary
+> 2. IEM Final Paper + Slides
+> 3. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
+> 4. TCM Integration in Singapore's Healthcare System Research
+> 5. Learning Journals on Biomedicine in Singapore (Covering a range of topics including: Technology, Ethics, Policy)
