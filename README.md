@@ -32,7 +32,7 @@ This repository documents my past articles, project reports and speeches.
 > Coupled with the fast paced nature of Pecha Kucha, this presentation employed the power of memes to captivate audiences and convey complex ideas with succinct wit, resonating with the ever-evolving tastes and preferences of today's generation.
 
 1.3 [Sustainability Symposium Research](https://github.com/Hugo-Chia/Projects/tree/main/UTC1112G%20Sustainability/Sustainability%20Symposium%20Research)
-> Final Research Project exploring **Nuclear Power and its Feasibility in Singapore’s context**
+> Final Research Project exploring **Nuclear Power and its Feasibility in Singapore’s context**.
 > The research question for the project is - How feasible is adopting nuclear energy to meet Singapore’s energy needs and advance Singapore’s goal of net-zero by 2050?
 
 # 2. IS1128 IT, Management and Organisation
