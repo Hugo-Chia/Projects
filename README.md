@@ -24,18 +24,19 @@ This repository documents my past articles, project reports and speeches.
 # 1. UTC1112G Sustainability
 
 1.1 [Sustainability Op-Ed](https://github.com/Hugo-Chia/Projects/blob/main/UTC1112G%20Sustainability/Sustainability%20Op-Ed.pdf) (Opposite Editorial)
-> An opposite editorial (op-ed) focusing on the intersection of sustainability and technology - Data Centres. This op-ed calls for a path towards greener and more sustainable data centrs, given an increasingly digitalised world.
+> An opposite editorial (op-ed) focusing on the **intersection of sustainability and technology - Data Centres**. This op-ed calls for a path towards greener and more sustainable data centrs, given an increasingly digitalised world.
 
 1.2 [Pecha Kucha Presentation](https://github.com/Hugo-Chia/Projects/tree/main/UTC1112G%20Sustainability/Pecha%20Kucha%20Presentation)
 > Pecha Kucha means 'chit-chat' in Japanese and is a format of 'Show and Tell'. The presenter shows 20 slides for 20 seconds of commentary each.  
 > This presentation focused on **Singapore's approach to Circular Economy**.  
 > Coupled with the fast paced nature of Pecha Kucha, this presentation employed the power of memes to captivate audiences and convey complex ideas with succinct wit, resonating with the ever-evolving tastes and preferences of today's generation.
 
-1.3 Sustainability Symposium Research (**To be published**)
+1.3 [Sustainability Symposium Research](https://github.com/Hugo-Chia/Projects/tree/main/UTC1112G%20Sustainability/Sustainability%20Symposium%20Research)
+> Final Research Project exploring **Nuclear Power and its Feasibility in Singapore’s context**
+> The research question for the project is - How feasible is adopting nuclear energy to meet Singapore’s energy needs and advance Singapore’s goal of net-zero by 2050?
 
 Upcoming works to publish and centralise:
-> 1. Sustainability Symposium Research
-> 2. Healthcare Digital Transformation Research (Abstract only)
-> 3. IEM - Reading Critical Summary
-> 4. IEM Final Paper + Slides
-> 5. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
+> 1. Healthcare Digital Transformation Research (Abstract only)
+> 2. IEM - Reading Critical Summary
+> 3. IEM Final Paper + Slides
+> 4. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
