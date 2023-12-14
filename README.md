@@ -40,7 +40,7 @@ This repository documents my past articles, project reports and speeches.
 > The target company chosen for the assessment was National University Hospital (NUH).
 
 # 3. NUR1113A Healthy Ageing and Well-being
-> The aim of this research project is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
+> The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20Individual%20Assignment%20(Official)%20-%20For%20Publish.pdf) is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
 
 Upcoming works to publish and centralise:
 > 1. IEM - Reading Critical Summary
