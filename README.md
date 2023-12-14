@@ -39,9 +39,12 @@ This repository documents my past articles, project reports and speeches.
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/IS1128%20IT%2C%20Management%20and%20Organisation/IS1128%20Group5_Project%20Final%20Report%20(Redacted).pdf) is to identify a local target company that underwent digital transformation during the COVID pandemic. The aim is to study the interplay between IT, work, management and organisation and issues involving information systems (IS) adoption and deployment.
 > The target company chosen for the assessment was National University Hospital (NUH).
 
+# 3. NUR1113A Healthy Ageing and Well-being
+> The aim of this research project is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
+
 Upcoming works to publish and centralise:
 > 1. IEM - Reading Critical Summary
 > 2. IEM Final Paper + Slides
-> 3. End-of-Life (EOL) Preparation amongst Elderly in Singapore Paper
-> 4. TCM Integration in Singapore's Healthcare System Research
-> 5. Learning Journals on Biomedicine in Singapore (Covering a range of topics including: Technology, Ethics, Policy)
+> 3. TCM Integration in Singapore's Healthcare System Research
+> 4. Learning Journals on Biomedicine in Singapore (Covering a range of topics including: Technology, Ethics, Policy)
+> 5. Therapeutic Activities among Older Adults Living In The Community
