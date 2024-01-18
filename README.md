@@ -43,7 +43,7 @@ This repository documents my past articles, project reports and speeches.
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20Individual%20Assignment%20(Official)%20-%20For%20Publish.pdf) is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
 
 # 4. UTS2101 Biomedicine and Singapore Society
-> A collection of Learning Journals on Biomedicine in Singapore covering a range of topics including: Technology, Ethics, Policy as part of the course curriculum.
+> A [collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals on Biomedicine in Singapore covering a range of topics including: Technology, Ethics, Policy as part of the course curriculum.
 
 Upcoming works to publish and centralise:
 > 1. IEM - Reading Critical Summary
