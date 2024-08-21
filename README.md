@@ -43,7 +43,13 @@ This repository documents my past articles, project reports and speeches.
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20Individual%20Assignment%20(Official)%20-%20For%20Publish.pdf) is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
 
 # 4. UTS2101 Biomedicine and Singapore Society
-> A [collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals on Biomedicine in Singapore covering a range of topics including: Technology, Ethics, Policy as part of the course curriculum.
+4.1 [Collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals
+> A collection of Learning Journals on Biomedicine in Singapore covering a range of topics including: Technology, Ethics, Policy as part of the course curriculum.
+
+4.2 [Biomedicine Final Project]()
+> Final Research Project exploring **TCM in Singapore.**
+It is imperative that Singapore integrates TCIM into its national health strategy, in line with the ongoing movement of Healthier SG and shift towards preventive care.
+The research question for the project is - How can TCM be better integrated into Singapore’s healthcare system?
 
 Upcoming works to publish and centralise:
 > 1. IEM - Reading Critical Summary
