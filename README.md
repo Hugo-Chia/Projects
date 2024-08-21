@@ -21,7 +21,7 @@ This repository documents my past articles, project reports and speeches.
 
 # **Assignments**
 
-# 1. UTC1112G Sustainability
+# 1. UTC1112G Sustainability (2022)
 
 1.1 [Sustainability Op-Ed](https://github.com/Hugo-Chia/Projects/blob/main/UTC1112G%20Sustainability/Sustainability%20Op-Ed.pdf) (Opposite Editorial)
 > An opposite editorial (op-ed) focusing on the **intersection of sustainability and technology - Data Centres**. This op-ed calls for a path towards greener and more sustainable data centrs, given an increasingly digitalised world.
@@ -35,24 +35,28 @@ This repository documents my past articles, project reports and speeches.
 > Final Research Project exploring **Nuclear Power and its Feasibility in Singapore’s context**.
 > The research question for the project is - How feasible is adopting nuclear energy to meet Singapore’s energy needs and advance Singapore’s goal of net-zero by 2050?
 
-# 2. IS1128 IT, Management and Organisation
+# 2. IS1128 IT, Management and Organisation (2022)
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/IS1128%20IT%2C%20Management%20and%20Organisation/IS1128%20Group5_Project%20Final%20Report%20(Redacted).pdf) is to identify a local target company that underwent digital transformation during the COVID pandemic. The aim is to study the interplay between IT, work, management and organisation and issues involving information systems (IS) adoption and deployment.
 > The target company chosen for the assessment was National University Hospital (NUH).
 
-# 3. NUR1113A Healthy Ageing and Well-being
+# 3. NUR1113A Healthy Ageing and Well-being (2023)
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20Individual%20Assignment%20(Official)%20-%20For%20Publish.pdf) is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
 
-# 4. UTS2101 Biomedicine and Singapore Society
-4.1 [Collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals
+# 4. UTW1001T How Rich Should Anyone Be? (2023)
+> To be updated
+
+# 5. UTS2101 Biomedicine and Singapore Society (2023)
+5.1 [Collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals
 > A collection of Learning Journals on Biomedicine in Singapore covering a range of topics including: Technology, Ethics, Policy as part of the course curriculum.
 
-4.2 [Biomedicine Final Project]()
+5.2 [Biomedicine Final Project](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society/Final%20Project)
 > Final Research Project exploring **TCM in Singapore.**
 It is imperative that Singapore integrates TCIM into its national health strategy, in line with the ongoing movement of Healthier SG and shift towards preventive care.
 The research question for the project is - How can TCM be better integrated into Singapore’s healthcare system?
 
+---
+
 Upcoming works to publish and centralise:
 > 1. IEM - Reading Critical Summary
 > 2. IEM Final Paper + Slides
-> 3. TCM Integration in Singapore's Healthcare System Research
-> 4. Therapeutic Activities among Older Adults Living In The Community
+> 3. Therapeutic Activities among Older Adults Living In The Community (NUR1113A)
