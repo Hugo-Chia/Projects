@@ -40,7 +40,11 @@ This repository documents my past articles, project reports and speeches.
 > The target company chosen for the assessment was National University Hospital (NUH).
 
 # 3. NUR1113A Healthy Ageing and Well-being (2023)
+3.1 Individual Assignment - The Grand Finale: End of life preparation
 > The aim of this [research project](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20Individual%20Assignment%20(Official)%20-%20For%20Publish.pdf) is to analyse End of Life (EOL) preparation, focusing on Advanced Care Planning (ACP) amongst elderly in Singapore. It also explores other related EOL services in Singapore and ongoing challenges it face in encouraging uptake.
+
+3.2 Group Presentation Assignment - Therapeutic Activities Among Older Adults Living in The Community
+> The aim of this group presentation is to identify and analyse issues related to the chosen topic. It analyses the global and local situations and discuss the relevance in Singapore's context. The research is grounded in literature reviews and theoretical framework. It also includes practical recommendations based on the research.
 
 # 4. UTW1001T How Rich Should Anyone Be? (2023)
 > To be updated
