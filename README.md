@@ -54,6 +54,16 @@ This repository documents my past articles, project reports and speeches.
 It is imperative that Singapore integrates TCIM into its national health strategy, in line with the ongoing movement of Healthier SG and shift towards preventive care.
 The research question for the project is - How can TCM be better integrated into Singapore’s healthcare system?
 
+# 6. IFS4101 Legal Aspects of Information Security (2025)
+6.1 Individual Term Research Paper - Regulatory Compliance in Information Security Using AI Agents and Decision Intelligence Frameworks
+> Research Project exploring how AI agents and decision intelligence frameworks can help Critical Information Infrastructure (CII) owners comply with the Cybersecurity Act 2018. The research focuses on Sections 14, 15, and 16, which address incident reporting, audits and risk assessments, and cybersecurity exercises, respectively. A critical analysis of these provisions was conducted and the paper proposed innovative and practical solutions for CII owners to manage compliance risks effectively.
+
+6.2 Group Project - Manual on Digital Forensics Investigation: Bridging Technical and Legal Standards
+> A Group Project that culminated in a comprehensive manual on digital forensics investigation that aligns with both international best practices INTERPOL’s Guidelines for Digital Forensics First Responders and the UK’s ACPO  Good Practice Guide for Digital Evidence) and Singapore's legal and regulatory framework, addressing the current gap in standardized guidelines for information security firms in Singapore.
+
+# 7. CS5321 Network Security (2025)
+> To be updated
+
 ---
 
 Upcoming works to publish and centralise:
