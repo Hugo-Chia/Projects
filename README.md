@@ -47,7 +47,11 @@ This repository documents my past articles, project reports and speeches.
 > The aim of this [group presentation](https://github.com/Hugo-Chia/Projects/blob/main/NUR1113A%20Healthy%20Ageing%20and%20Well-being/NUR1113A%20T6%20Group%203%20-%20Therapeutic%20Activities%20-%20For%20Publish.pdf) is to identify and analyse issues related to the chosen topic. It analyses the global and local situations and discuss the relevance in Singapore's context. The research is grounded in literature reviews and theoretical framework. It also includes practical recommendations based on the research.
 
 # 4. UTW1001T How Rich Should Anyone Be? (2023)
-> To be updated
+4.1 Critical Summary Assignment
+> An explanation and critical analysis of an argument (or arguments) in an approved reading (i.e. Cohen, G. A. “Why Not Socialism?”).
+
+4.2 Wealth Inequality Essay - Is capitalism a necessary condition for innovation?
+> An essay assignment that either focuses on the theoretical aspect of wealth inequality, or an applied aspect. This essay explores both aspects. An accompanying deck of presentation that served as a prelude to the essay is also included.
 
 # 5. UTS2101 Biomedicine and Singapore Society (2023)
 5.1 [Collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals
@@ -71,5 +75,4 @@ The research question for the project is - How can TCM be better integrated into
 ---
 
 Upcoming works to publish and centralise:
-> 1. IEM - Reading Critical Summary
-> 2. IEM Final Paper + Slides
+> 1. CS5321 Network Security Research Paper
