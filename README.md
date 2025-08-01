@@ -48,10 +48,10 @@ This repository documents my past articles, project reports and speeches.
 
 # 4. UTW1001T How Rich Should Anyone Be? (2023)
 4.1 Critical Summary Assignment
-> An explanation and critical analysis of an argument (or arguments) in an approved reading (i.e. Cohen, G. A. “Why Not Socialism?”).
+> A [critical summary](https://github.com/Hugo-Chia/Projects/blob/main/UTW1001T%20How%20Rich%20Should%20Anyone%20Be/UTW1001T%20Assignment%201%20-%20For%20Publish.pdf) that explains and critically analyses an argument (or arguments) in an approved reading (i.e. Cohen, G. A. “Why Not Socialism?”).
 
 4.2 Wealth Inequality Essay - Is capitalism a necessary condition for innovation?
-> An essay assignment that either focuses on the theoretical aspect of wealth inequality, or an applied aspect. This essay explores both aspects. An accompanying deck of presentation that served as a prelude to the essay is also included.
+> An [essay assignment](https://github.com/Hugo-Chia/Projects/blob/main/UTW1001T%20How%20Rich%20Should%20Anyone%20Be/UTW1001T%20Assignment%203%20-%20For%20Publish.pdf) that explored both the theoretical and applied aspect of wealth inequality. An accompanying deck of [presentation](https://github.com/Hugo-Chia/Projects/blob/main/UTW1001T%20How%20Rich%20Should%20Anyone%20Be/Capitalism%20-%20A%20necessary%20condition%20for%20innovation%20-%20For%20Publish.pdf) that served as a prelude to the essay is also included.
 
 # 5. UTS2101 Biomedicine and Singapore Society (2023)
 5.1 [Collection](https://github.com/Hugo-Chia/Projects/tree/main/UTS2101%20Biomedicine%20and%20Singapore%20Society) of Learning Journals
